@@ -19,7 +19,7 @@ env:
 jobs:
   sync:
     name: Generate README
-    runs-on: self-hosted
+    runs-on: latest_ubuntu
     steps:
       - name: Checkout
         uses: actions/checkout@v2
