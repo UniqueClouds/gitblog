@@ -19,7 +19,10 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 ## article
 - [吃肉夹馍时想到的……](https://github.com/UniqueClouds/gitblog/issues/4)--2022-09-04
 - [People Die, but Long Live GitHub](https://github.com/UniqueClouds/gitblog/issues/2)--2022-08-30
+## invalid
+- [微信被封一个月](https://github.com/UniqueClouds/gitblog/issues/7)--2022-10-25
 ## thoughts
+- [以赛亚·柏林](https://github.com/UniqueClouds/gitblog/issues/8)--2022-10-25
 - [杂碎记](https://github.com/UniqueClouds/gitblog/issues/6)--2022-09-24
 - [杂思](https://github.com/UniqueClouds/gitblog/issues/5)--2022-09-22
 ## todo
