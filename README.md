@@ -6,6 +6,7 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
 ## 置顶文章
+- [微信被封一个月](https://github.com/UniqueClouds/gitblog/issues/7)--2022-10-25
 - [第一篇文章](https://github.com/UniqueClouds/gitblog/issues/1)--2022-08-30
 ## 最近更新
 - [以赛亚·柏林](https://github.com/UniqueClouds/gitblog/issues/8)--2022-10-25
